@@ -1,0 +1,2 @@
+# redmi
+fst mobile
